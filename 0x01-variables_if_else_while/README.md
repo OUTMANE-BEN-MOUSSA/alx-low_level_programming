@@ -1,2 +1,4 @@
 The 0-positive_or_negative.c assign a random number to the variable n each time it is executed. Complete the source code in order to print whether the number stored in the variable n is positive or negative.
 The file 1-last_digit.c shows last didgit of a random integer
+The file 2 prints alphabets in lower case
+The file 3 prints alphabets in lower case Then upper case
