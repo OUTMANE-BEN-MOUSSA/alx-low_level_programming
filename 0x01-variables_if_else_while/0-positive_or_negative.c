@@ -3,7 +3,9 @@
 #include <stdio.h>
 
 /*
- * main - Positive or Negative
+ * main - Entry Point
+ *
+ * Description: Positive or Negative
  *
  * Return : Always 0 if sucess
  */
