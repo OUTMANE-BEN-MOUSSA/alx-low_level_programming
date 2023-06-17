@@ -5,3 +5,4 @@ The file 3-name compiles a C file and creates an executable named cisfun.
 The file 4-puts.c print a message with function puts
 The file 5-printf.c prints amessage with function printf
 The file 6-sizes print sizes of types
+The file 100-intel generates the assembly code (Intel syntax) of a C code and save it in an output file.
