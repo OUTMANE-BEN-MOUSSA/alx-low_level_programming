@@ -2,6 +2,7 @@
 
 /*
  * main : The entry point
+ * The program prints a message
  * return 0 if success
  */
 int main(void)
