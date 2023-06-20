@@ -1,2 +1,4 @@
 The file 0 prints _putchar followed by a new line
 The file 1 prints the alphabets in lower case followed by a new line
+The file 2  prints 10 times the alphabet, in lowercase, followed by a new line.
+The file 3 checks for lowercase character., followed by a new line.
