@@ -4,3 +4,5 @@ The file 2  prints 10 times the alphabet, in lowercase, followed by a new line.
 The file 3 checks for lowercase character., followed by a new line.
 The file 4 checks for alphabetic character.
 The file 5 prints the sign of a number.
+Th file 6 prints the absolute value of an integer
+The file 7 prints the last digit of a number
