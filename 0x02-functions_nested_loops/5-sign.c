@@ -3,7 +3,7 @@
 /**
  * print_sign - Check main.h
  * @n: An input number
- * Description: This function prints the sign of the number negative, positive or zero
+ * Description: This function prints the sign of the number -, + or 0
  * Return: 1 if number is positive, o if number is 0, or
  * -1 if number is negative
  */
