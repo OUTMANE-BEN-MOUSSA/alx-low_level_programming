@@ -8,3 +8,5 @@ Th file 6 prints the absolute value of an integer
 The file 7 prints the last digit of a number
 The file 8 prints the minutes of a day
 The file 9 prints the 9 times table
+The file 10  adds two integers and returns the result.
+The file 11 prints from any number to 98
