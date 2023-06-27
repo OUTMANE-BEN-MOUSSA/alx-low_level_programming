@@ -6,3 +6,5 @@ The file 4 for a function that prints a string, in reverse, followed by a new li
 The file 5 for a function that reverses a string
 The file 6 prints caracters of a string
 The file 7 for a function that prints half of a string
+The file 8 is for a function that prints n elements of an array
+The file 9 is for a function that copies a string
