@@ -5,3 +5,4 @@ The file 3 for a function that prints a string, followed by a new line, to stdou
 The file 4 for a function that prints a string, in reverse, followed by a new line.
 The file 5 for a function that reverses a string
 The file 6 prints caracters of a string
+The file 7 for a function that prints half of a string
