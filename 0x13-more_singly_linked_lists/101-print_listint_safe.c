@@ -2,7 +2,7 @@
 #include <stdio.h>
 
 /**
- * print_listint_safe - This function prints the elementsin a  list
+ * print_listint_safe - This function prints the elements of list
  * @head: A pointer to listint_t structure
  * Return: The number of nodes or exits with 98 on failure
  */
